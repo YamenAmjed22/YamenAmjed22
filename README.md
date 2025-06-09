@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img href = "https://www.linkedin.com/in/yamenamjed/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YamenAmjed22.YamenAmjed22&"  />
 </div>
 
@@ -25,6 +19,12 @@
 ###
 
 <p align="left">I'm  from  jordan <br><br>- 🔭 I’m working as Java Developer <br>- 📚 I'm currently learning Funny IT Tec<br>- ⚡ In my free time I play CodeForces</p>
+
+###
+
+<br clear="both">
+
+<p align="center">This is My Linekd In : https://www.linkedin.com/in/yamenamjed/</p>
 
 ###
 
@@ -88,8 +88,5 @@
 
 <div align="left">
 </div>
-
-###
-
 
 ###
